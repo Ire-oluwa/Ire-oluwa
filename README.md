@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ire-oluwa
-- 👀 I’m interested in android development, Geodesy
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m @Ireoluwa
+- 👀 I’m interested in Mobile app development, Geodesy
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me orodiji.ireoluwa@gmail.com
 
