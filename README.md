@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ireoluwa
 - 👀 I’m interested in Mobile app development, Geodesy
-- 🌱 I’m currently learning Flutter
+- 🌱 I am a Flutter developer 
 - 💞️ I’m looking to collaborate on mobile app development projects
 - 📫 How to reach me orodiji.ireoluwa@gmail.com
 
